@@ -2,8 +2,8 @@
 [![Build Status](https://travis-ci.org/blooparksystems/website.svg?branch=8.0)](https://travis-ci.org/blooparksystems/website)
 
 
-bloopark
-========
+bloopark of this site
+=====================
 
 We are an internet agency and Odoo partner based in Magdeburg, Germany with over 10 years of experience in e-commerce, responsive design and development.
 We consider ourselves as A-team, small and efficient.
@@ -11,7 +11,7 @@ With remote developers all across the world, we are pride of our wide perspectiv
 
 
 Support
-------- 
+======= 
 
 * Jens Holze (jholze@bloopark.de)
 * Benjamin Bachmann (bbachmann@bloopark.de)
